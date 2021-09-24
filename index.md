@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## CR@RGANIC
 
-You can use the [editor on GitHub](https://github.com/irfanbinsyed/business/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![image](https://raw.githubusercontent.com/DJShankyShoe/business/gh-pages/logo.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Cons of GMO food:
 
-### Markdown
+The ongoing debate about the effects of GMOs on health and the environment is a controversial one. In most cases, GMOs are engineered to make food crops resistant to herbicides and/or to produce an insecticide. For example, much of the sweet corn consumed in the U.S. is genetically engineered to be resistant to the herbicide Roundup and to produce its own insecticide, Bt Toxin.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![image](https://raw.githubusercontent.com/DJShankyShoe/business/gh-pages/crop.jpg)
 
-```markdown
-Syntax highlighted code block
+### Info on organic foods:
 
-# Header 1
-## Header 2
-### Header 3
+Organic food production began as an alternative farming method outside the mainstream, and eventually became divided between two distinct paths:  small-scale farms that may not be formally certified organic and thus depend on informed consumers who seek out local, fresh, organically grown foods; and large-scale certified organic food (fresh and processed) that is typically transported large distances and is distributed through typical grocery store chains. If consumers know their local farmer and trust the farmer’s production methods, they may not demand a certification label. On the other hand, organic food produced far away and shipped is more likely to require a certification label to promote consumer trust and to prevent fraud, which exemplifies how national certification regulations are most beneficial.
 
-- Bulleted
-- List
+![image](https://raw.githubusercontent.com/DJShankyShoe/business/gh-pages/plant.jpg)
 
-1. Numbered
-2. List
+### Why you should choose CR@GRANIC:
 
-**Bold** and _Italic_ and `Code` text
+Our firm strongly believes in delivering fresh, top-notch quality organic foods to our customers. We aim to promote and sell organic foods on a large scale so as to promote healthy living, especially in this economy where there is a growing (and worrying) trend of people suffering from chronic illnesses, such as diabetes. As such, the health of our customers and safe consumption of our organic foods remains our top priority. 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/irfanbinsyed/business/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![image](https://raw.githubusercontent.com/DJShankyShoe/business/gh-pages/growth.jpg)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<a href="mailto:mhd_irfan_bin_syed@outlook.sg"> Click Here </a>
+
+<body> 
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z333MQ06HZ"></script>
+    <script>       
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-Z333MQ06HZ');
+    </script>
+</body>
+
